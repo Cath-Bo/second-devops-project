@@ -1,0 +1,7 @@
+Deployment steps:
+
+1. Check project files.
+2. Check configuration.
+3. Run tests.
+4. Deploy application.
+5. Verify deployment.

@@ -1,0 +1,4 @@
+Project: DevOps Training
+Purpose: Practice Git and GitHub
+Branch: feature/lesson-12
+Status: In progress
