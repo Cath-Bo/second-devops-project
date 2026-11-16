@@ -1,0 +1,2 @@
+DevOps training report.
+Nginx autoindex configuration.
