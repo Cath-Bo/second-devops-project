@@ -1,1 +1,1 @@
-subjectAltName = DNS:second-site.kitten.local
+subjectAltName = DNS:second-site.kitten.local,IP:192.168.1.20
